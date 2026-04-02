@@ -1,5 +1,5 @@
 import React from 'react';
-import { Code, Palette, Database, Globe, Users, Lightbulb, Code2Icon } from 'lucide-react';
+import { Code, Palette, Database, Globe, Users,Lightbulb, Code2Icon } from 'lucide-react';
 
 const About = () => {
   const skills = [
@@ -11,7 +11,7 @@ const About = () => {
     {
       category: "Backend", 
       icon: <Database className="w-6 h-6" />,
-      technologies: ["Python",  "Basic Node.js", "REST APIs"]
+      technologies: ["MongoDB","MYSQL/SQL","Basic Node.js", "REST APIs"]
     },
     {
       category: "Tools & Others",

@@ -4,6 +4,15 @@ import { ExternalLink, Github, ArrowRight } from 'lucide-react';
 const Projects = () => {
   const projects = [
     {
+  title: "VovFood – MERN Food Ordering Platform",
+  description: "A full-stack food ordering web application built using the MERN stack (MongoDB, Express.js, React, and Node.js). Users can browse food items, add them to the cart, and place orders through a responsive interface. The backend handles API requests, database operations, and order management while the frontend provides a smooth user experience with reusable React components. This project demonstrates full-stack development, REST API integration, and database management.",
+  image: "/image.png",
+  technologies: ["MongoDB", "Express.js", "React", "Node.js", "JavaScript", "HTML", "CSS"],
+  githubUrl: "https://github.com/karampudijanardhan/Vov-foods",
+  liveUrl: "https://vov-foods-9.onrender.com/",
+  featured: true
+},
+    {
       title: "Amazon Clone",
       description: "A responsive Amazon-inspired e-commerce UI built using React, Tailwind CSS, and React Router. It includes product listings, category pages, and a modern shopping interface. Designed to showcase front-end development skills with reusable components, responsive design, and clean layout structure. Deployed using Vercel for fast, live access.",
       image: "https://sm.pcmag.com/pcmag_me/photo/p/photoshop-/photoshop-image-of-items-you-can-get-with-amazon-prime_jb9r.jpg",

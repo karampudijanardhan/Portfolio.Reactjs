@@ -36,7 +36,7 @@ const Hero = () => {
                 Get In Touch
               </button>
               <a
-  href="/JANARDHAN KARAMPUDI.pdf"
+  href="/janardhan_karampudi_Resume.pdf"
   download
   className="border-2 border-blue-600 text-blue-600 px-8 py-3 rounded-lg hover:bg-blue-600 hover:text-white transition-all duration-200 flex items-center gap-2 font-medium"
 >
