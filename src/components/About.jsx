@@ -1,5 +1,5 @@
 import React from 'react';
-import { Code, Palette, Database, Globe, Users,Lightbulb, Code2Icon } from 'lucide-react';
+import { Code, Database, Globe, Lightbulb, Code2Icon } from 'lucide-react';
 
 const About = () => {
   const skills = [
