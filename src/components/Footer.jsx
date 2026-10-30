@@ -6,8 +6,7 @@ import {
   Linkedin,
   Mail,
   Phone,
-  ArrowUp,
-  Code2,
+  ArrowUp
 } from "lucide-react";
 
 const Footer = () => {
