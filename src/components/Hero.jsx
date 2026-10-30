@@ -20,12 +20,20 @@ const Hero = () => {
                 Janardhan
               </span>
             </h1>
-            <h2 className="text-2xl lg:text-3xl text-gray-600 mb-6">
-              Front-End Developer & UI/UX Designer
-            </h2>
-            <p className="text-lg text-gray-600 mb-8 max-w-2xl">
-            Passionate Front-End Developer skilled in HTML, CSS, JavaScript, Tailwind CSS, and React.js. Experienced in building responsive UIs and integrating RESTful APIs. Focused on creating clean, user-friendly designs with strong performance. Eager to contribute to impactful projects and grow within a dynamic, team-driven development environment.
-            </p>
+          <h2 className="text-2xl lg:text-3xl text-gray-600 mb-6">
+  Full Stack Developer & React.js Developer
+</h2>
+
+<p className="text-lg text-gray-600 mb-8 max-w-2xl">
+  Passionate Full Stack Web Developer skilled in React.js, JavaScript,
+  HTML5, CSS3, Tailwind CSS, Node.js, Express.js, and MongoDB.
+  Experienced in building responsive websites, developing interactive
+  user interfaces, integrating REST APIs, and working with databases.
+  Focused on creating user-friendly, high-performance web applications
+  and delivering practical digital solutions. Always eager to learn
+  new technologies, solve challenging problems, and contribute to
+  impactful software projects.
+</p>
             
             <div className="flex flex-wrap gap-4 justify-center lg:justify-start mb-8">
               <button
@@ -36,7 +44,7 @@ const Hero = () => {
                 Get In Touch
               </button>
               <a
-  href="/JANARDHAN KARAMPUDI.pdf"
+  href="/Janardhan_Karampudi_FrontEnd_Resume.pdf"
   download
   className="border-2 border-blue-600 text-blue-600 px-8 py-3 rounded-lg hover:bg-blue-600 hover:text-white transition-all duration-200 flex items-center gap-2 font-medium"
 >
@@ -62,7 +70,7 @@ const Hero = () => {
           <div className="relative">
             <div className="relative z-10">
               <img
-                src="/jana.jpg"
+                src="/profile_under_1mb.jpg"
                 alt="Professional headshot"
                 className="w-full max-w-md mx-auto rounded-2xl shadow-2xl p-5"
               />
